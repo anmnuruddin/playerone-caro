@@ -76,7 +76,7 @@ PlayerOne generates live governance research data through the Fairness Index (FI
 | Pilot sample (FI V1) | N=86, April 2026 |
 | Live platform sample | N=43, ongoing |
 | Overall Fairness Index — pilot | 1.74 / 5.0 |
-| Overall Fairness Index — live platform | 1.73 / 5.0 |
+| Overall Fairness Index — live platform | 1.30 / 5.0 |
 | Domains measured | 5 — Governance, Justice & Rule of Law, Economy, Public Services, Accountability |
 | Geographic coverage | 211 of 300 Bangladesh parliamentary constituencies |
 
