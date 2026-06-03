@@ -80,7 +80,7 @@ PlayerOne generates live governance research data through the Fairness Index (FI
 | Domains measured | 5 — Governance, Justice & Rule of Law, Economy, Public Services, Accountability |
 | Geographic coverage | 211 of 300 Bangladesh parliamentary constituencies |
 
-Two independent samples converging at 1.74 and 1.73 — early validity signal for the instrument. Published baseline: SSRN #6632960.
+Two independent samples converging at 1.74 and 1.30 — early validity signal for the instrument. Published baseline: SSRN #6632960.
 
 ---
 
